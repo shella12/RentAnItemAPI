@@ -138,8 +138,8 @@ RAILS_DATABASE_PASSWORD=
 ## 🔭 Future Features <a name="future-features"></a>
 
 - **Add rating system**
-- **Updating doctor**
-- **Filter users by their roles**
+- **Updating housing details**
+- **Filter houses**
 - **Add user portfolio**
 - **Add super user**
 
